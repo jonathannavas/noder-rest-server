@@ -1,6 +1,3 @@
-//password mongo fBjKaqYCWtlpHdnr
-//user jncode
-//url de conexion mongodb+srv://jncode:fBjKaqYCWtlpHdnr@cluster0-tfclq.mongodb.net/cafe
 require('./config/config');
 
 const express = require('express')
